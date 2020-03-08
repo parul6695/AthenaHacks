@@ -1,0 +1,6 @@
+After seeing the statistsics, we realised the need of a common platform to share a shareable resources among our community 
+because sharing is caring and bring our community closer.
+With this aim we have created a webapp where users can sign to share there resources if they feel it might get wasted.
+Non profit organizations, educational institution for underprivileged children, shelter for homeless people and restaurants can also register with the app.
+Restaurants and community people can post about the extra resources they have and then as soon as they post, it will trigger an email notification to all the institutes or organizations have in queue requests for the same. This is done matching algorithm impelmented at the backend as per the needs of receiver.
+Then, organization in need of the posted resources can claim it via an app. They can assign their local volunteer to collect the same.
